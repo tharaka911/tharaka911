@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tharaka911 who is self taught software developer and tech 
+- 👋 Hi, I’m @tharaka911 who is a self-taught software developer and tech enthusiast.
 - 👀 I'm interested in web development technologies and cloud integration applications
 - 🌱 I'm currently learning Angular and Spring Boot
 - 💞️ I'm looking to collaborate on your web development project.
