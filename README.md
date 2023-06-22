@@ -8,17 +8,16 @@ You can click the Preview link to take a look at your changes.
   <h4 align="center">a self-taught full-stack software developer and tech enthusiast</h4>
 </div>
 
-- 👀 I'm interested in web technologies and cloud-native application development 
-- 🌱 I'm currently learning AWS and Laravel framework
-- 💞️ I'm looking to collaborate on your web development project.
-- 📫 How to reach me - you can reach me via LinkedIn if you have any further questions or want to collaborate on a web development project. I'm happy to help! www.linkedin.com/in/tharaka11
-
-
 <div align="center">
   <a href="https://github.com/psnwd">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+- 👀 I'm interested in web technologies and cloud-native application development 
+- 🌱 I'm currently learning AWS and Laravel framework
+- 💞️ I'm looking to collaborate on your web development project.
+- 📫 How to reach me - you can reach me via LinkedIn if you have any further questions or want to collaborate on a web development project. I'm happy to help! www.linkedin.com/in/tharaka11
 
 ## 💻 Tech Stack:
 
